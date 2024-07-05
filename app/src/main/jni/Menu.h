@@ -27,7 +27,7 @@ Java_uk_lgl_modmenu_FloatingModMenuService_Heading(JNIEnv *env, jobject thiz) {
 
 
     return env->NewStringUTF(OBFUSCATE("<b><marquee><p style=\"font-size:30\">"
-                                       "<p style=\"color:green;\">Modded by Sami Gaming Yt</p> | "
+                                       "<p style=\"color:green;\">Modded by PhucAnhIT</p> | "
                                        "PUBG MOBILE KOREA V1.3.0 |Facebook: https://www.facebook.com/phucanhdev/  </p>"
                                        "</marquee></b>"));
 }
